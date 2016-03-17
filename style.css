@@ -1,0 +1,28 @@
+body
+{
+	background-image: url('txture.png');
+	color: #888888;
+}
+
+h1
+{
+	color: #fff;
+	text-align: center;
+}
+
+img:hover 
+{ 
+	border: 2px solid #ff8c00;
+}
+
+img 
+{
+	border: 2px solid #000;
+	box-shadow: 3px 3px 6px #121415;
+	margin: 5px;
+}
+
+#content
+{
+	margin: 0 auto;
+}
